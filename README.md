@@ -57,7 +57,7 @@
 
 <b>👉  SHAHEEN OFFICIAL qr BEST Scan 🔎 923337470194... 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ishansandeepa18/QUEEN-ASHIYA-MD?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://github.com/KINGOFBALOCH/QUEEN-ASHIYA-MD/edit/main/README.md)
 
 
 
