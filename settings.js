@@ -1,8 +1,8 @@
 //═══════════════════════════════════════════════════════//
-//                    💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
+//                    💞 SHAHEEN OFFICIAL 💞
 //                              
 //             
-//       𝕊𝕣𝕚 𝕃𝕒𝕟𝕜𝕒 𝔹𝕖𝕤𝕥  𝕎𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕆𝕋...
+//       PAKISTANI BEST  WHATSAPP BOT...
 //
 //════════════════════════════//
 
@@ -22,25 +22,25 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94786746412'] //your owner number
-global.premium = ['94786746412'] //your Owner number in menu msg
-global.ownernomer = '94786746412' //your owner number info
+global.owner = ['+923337470194'] //your owner number
+global.premium = ['+923337470194'] //your Owner number in menu msg
+global.ownernomer = '+923337470194' //your owner number info
 
-global.ownername = 'Ishan Sandeepa' //your owner name
-global.botname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
-global.footer = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞' 
+global.ownername = 'SHAHEEN BALOCH' //your owner name
+global.botname = '💞 SHAHEEN OFFICIAL 💞' //your bot name    // ඔයා බොට්ගේ නම නම් වෙනස් කලාට වැඩක් නෑ... බොට්ගේ නම ( 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞 ) තමයි...
+global.footer = '💞 SHAHEEN OFFICIAL 💞' 
 
-global.ig = 'https://github.com/ishansandeepa757' //Github Account!
+global.ig = 'https://youtu.be/OSvvf9ESl38' //Github Account!
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/ishansandeepa757'
-global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix' //your chanal link
-global.packname = '💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞'
+global.sc = 'https://youtu.be/OSvvf9ESl38'
+global.myweb = 'https://youtu.be/OSvvf9ESl38' //your chanal link
+global.packname = '💞 SHAHEEN OFFICIAL 💞'
 
 global.alivemsgimage = 'https://wallpaperaccess.com/full/3008776.jpg' // ඔයාගේ Alive massege එකට වැටෙන්න ඕන image එකක Link එකක් මෙතනට දෙන්න...
 
 global.chatbotpre = "true"
 
-global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
+global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- SHAHEEN OFFICIAL'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']                          // 👈 මේවා ඔයාට ඕන විදියට වෙනස් කර ගන්න \\ 
 global.sp = '⭔'
@@ -49,13 +49,13 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE .....👇
 	
 	
     success: 'හරි ✅',
-    admin: 'උබට බෑ බං ඇඩ්මින්ට විතරයි පුලුවන්...!',
-    botAdmin: 'ඔයා ඇඩ්මින් කෙනෙක් නෙවෙයි... !',
-    owner: 'මට විතරයි මේක කරන්න පුලුවන්!',
-    group: 'Groups වල විතරයි පුලුවන්...!',
-    private: 'Private Chat වල විතරයි පුලුවන්...!',
-    bot: 'මෙම විශේෂාංගය Bot සඳහා පමණි...',
-    wait: 'පොඩ්ඩක් ඉන්න Wait ⏳ ...',
+    admin: 'SHAHEEN OFFICIAL 923337470194...!',
+    botAdmin: 'SHAHEEN OFFICIAL 923337470194... !',
+    owner: 'SHAHEEN OFFICIAL 923337470194!',
+    group: 'Groups.SHAHEEN OFFICIAL 923337470194..!',
+    private: 'Private Chat SHAHEEN OFFICIAL 923337470194...!',
+    bot: '+923337470194Bot SHAHEEN OFFICIAL 923337470194...',
+    wait: 'SHAHEEN OFFICIAL 923337470194 Wait ⏳ ...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 	
