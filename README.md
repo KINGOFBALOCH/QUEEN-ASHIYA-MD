@@ -1,43 +1,42 @@
 <p align="center">
-<img src="https://i.ibb.co/3M1pzNm/Ashiya.jpg" alt="nz" width="400"/>
+<img src="https://i.ibb.co/3M1pzNm/OFFICIAL.jpg" alt="nz" width="400"/>
 </p>
 
 
 ----
 
-## I Am 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
+## I Am 💞 SHAHEEN OFFICIAL 💞
 
 
 
 ----
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5550&color=F749F3&width=500&height=60&lines=Hi+Friends+...;I'm+QUEEN+ASHIYA+...;Sri+Lankan+World+Best+Whatsapp+BOT+...;Create+By+%3A-++Ishan+Sandeepa+...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=5550&color=F749F3&width=500&height=60&lines=Hi+Friends+...;I'm+SHAHEEN+OFFICIAL+...;Sri+Lankan+World+Best+Whatsapp+BOT+...;Create+By+%3A-++SHAHEEN+OFFICIAL+...)](https://git.io/typing-svg)
 
 
 
 ----
 
-## හරි, අපි එහෙනම් බලමු මේ බොට් Deploy කර ගන්න විදිය ... 
+## KING, SHAHEEN OFFICIAL 923337470194 Deploy BALOCH ... 
 
 
- * ✏️ මේ දේට ඔයාට ඕන වෙනවා,
+ * ✏️ SHAHEEN OFFICIAL,
 
-         1.) Git Hub Acount එකක්.
+         1.) Git Hub Acount SHAHEEN.
 
-         2.) Heraku Acount එකක්.
+         2.) Heraku Acount SHAHEEN.
 
 
-* ✏️ මුලින්ම ඔයා Git Hub එකට Log වෙලා ඉන්න ඊට පස්සෙ QUEEN-ASHIYA-MD   Frock කර ගන්න...
+* ✏️ SHAHEEN Git Hub OFFICIAL Log made in Pakistan SHAHEEN OFFICIAL-MD   Frock king...
 
-* ✏️ ඊට පස්සෙ ඔයා ඔයාගේ  Whtsapp එකෙන් Qr එක Scan කරන්න... ඊට පස්සෙ ඔයාගෙ නම්බරෙන්, ඔයාටම Massege එකක් එයි..ඒ Document එකක්.. ඒ තමයි ඔයාගෙ Session එක... 
+* ✏️ SHAHEEN OFFICIAL  Whtsapp SHAHEEN Qr OFFICIAL Scan BALOCH... 923337470194, 923087609409 Massege KING..S Document BALOCH.. SHAHEEN OFFICIAL Session 923337470194... 
 
-* ✏️  ඊට පස්සෙ ඒක Open කරලා. ඒකේ තියන ටික Coppy කර ගන්න..
+* ✏️  PAKISTANI BEST WHATSAPP BOT Open OFFICIAL. LOVE Coppy KING..
 
-* ✏️ ඔයා Fock කරපු Git Hub එකට යන්න Session .json කියලා එකක් ඇති ඒකට ඔයාගෙ Session එක Upload කරන්න... 
+* ✏️ HELLO Fock YES Git Hub KING Session .json SHAHEEN OFFICIAL Session 923337470194 Upload NICE... 
 
-* ✏️ හරි දැන් වැඩේ ඉවරයි.. ඔයාට ඕනනම් Setting.js වල තියන Setting ඔයාට ඕන විදියට වෙනස් කර ගන්න පුලුවන් ..... හැබැයි තියන ඔක්කොම දේවල් නම් වෙනස් කරන්න යන්න එපා. එහෙම                උනොත්     බොටා වැඩ කරන්නෙ නැති වෙයි ඔන්න හරිද ... Owner Name , Owner Number මෙන්න මේ වගේ දේවල් විතරක් වෙනස් කරන්න මතක තියා ගන්න...
-
+* ✏️ SHAHEEN OFFICIAL.. music Setting.js LIKE Setting I LOVE PAKISTAN SHAHEEN OFFICIAL 923337470194
 
 ---- 
 
@@ -46,9 +45,9 @@
 </p>
 
 
-*  මේ ඉහළ තියන පොටෝ එකේ විදියට ආවනම් ඔයාගේ බොට් වැඩ .........
+*  MADE IN PAKISTAN .........
 
-*  බය වෙන්න එපා ඒක Error එකක් නෙවේ හරිද.........
+*  SHAHEEN Error OFFICIAL.........
 
 
 ---- 
@@ -56,7 +55,7 @@
 
 
 
-<b>👉  මෙතනින් qr එක Scan 🔎 කරන්න... 
+<b>👉  SHAHEEN OFFICIAL qr BEST Scan 🔎 923337470194... 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ishansandeepa18/QUEEN-ASHIYA-MD?v=1)
 
@@ -69,7 +68,7 @@
 
 
 
-<b>👉  මෙතනිම් බොට්ව Deploy 💻 කරන්න...
+<b>👉  SHAHEEN Deploy 💻 OFFICIAL 923337470194...
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -83,7 +82,7 @@
 
 
 
-<b><details><summary>𝐐𝐔𝐄𝐄𝐍 𝐀𝐒𝐇𝐈𝐘𝐀 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞</summary><br>
+<b><details><summary>SHAHEEN OFFICIAL 𝐖𝐞𝐛𝐬𝐢𝐭𝐞</summary><br>
 	
 
 [```🎀  𝒞𝐿𝐼𝒞𝒦 𝐻𝐸𝑅𝐸  🎀```](https://sites.google.com/view/queen-ashiya/home)
@@ -116,7 +115,7 @@
 	
 ## License  
 
-@ Ishan Sandeepa .....
+@ SHAHEEN OFFICIAL .....
 
 
 ----
